@@ -11,6 +11,7 @@ public class Account {
     
     public Account() {}
     
+    public Account()
     
     //메소드 gs
     
