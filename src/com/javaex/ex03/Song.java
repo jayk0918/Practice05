@@ -37,7 +37,9 @@ public class Song {
 	
 	
 	// 메소드 일반
-	
+	public void removeError() {
+		System.out.println(title + artist + album + composer + year + track);
+	}
 	
 	
 	
